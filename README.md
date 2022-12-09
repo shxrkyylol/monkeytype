@@ -1,7 +1,17 @@
-# monkeytype
-my monkey type themes
+<div align="center">
+  <h1>
+    monkeytype
+  </h1>
+  
+  my custom monkeytype themes!
+  
+  <h2>
+    
+    themes:
+    
+  </h2>
+  
+ sharkyy v1: https://shorturl.at/HJKT0
+  
+</div>
 
-### themes
-
-- [sharkyy v1](https://monkeytype.com?customTheme=WyIjMjYzZTQ0IiwiIzdlYjBjMCIsIiM4OGI3YWQiLCIjNjQ2NjY5IiwiIzJjMmUzMSIsIiMyMmE0YTQiLCIjY2E0NzU0IiwiIzdlMmEzMyIsIiNjYTQ3NTQiLCIjN2UyYTMzIl0=)
-- a
